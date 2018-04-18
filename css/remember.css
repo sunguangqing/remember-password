@@ -25,7 +25,7 @@ body, label, input, span{
     -webkit-border-radius: 20px;
     -moz-border-radius: 20px;
     border-radius: 20px;
-    background-color: #eee;
+    background-color: #999;
     transition: .3s;
     -moz-transition: .3s;
     -o-transition: .3s;
